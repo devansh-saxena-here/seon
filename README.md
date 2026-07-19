@@ -27,7 +27,11 @@
 
 <br><br>
 
-🚀 <a href="YOUR_LIVE_DEMO_LINK">Live Demo</a>
+<p align="center">
+  <a href="https://seon-lyart.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-Launch_SEON-0A66C2?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo Button" />
+  </a>
+</p>
 
 
 
