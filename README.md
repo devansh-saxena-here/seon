@@ -29,11 +29,8 @@
 
 🚀 <a href="YOUR_LIVE_DEMO_LINK">Live Demo</a>
 
-📖 <a href="YOUR_DOCS_LINK">Documentation</a>
 
-🎥 <a href="YOUR_VIDEO_LINK">Demo Video</a>
 
-💻 <a href="YOUR_GITHUB_LINK">GitHub Repository</a>
 
 ---
 
