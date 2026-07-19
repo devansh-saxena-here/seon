@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="assets/banner.png" alt="SEON Banner" width="100%">
+<img src="assets/banner.png" alt="https://raw.githubusercontent.com/devansh-saxena-here/seon/main/ChatGPT%20Image%20Jul%2019%2C%202026%2C%2007_29_48%20PM.png" width="100%">
 
 <br>
 
