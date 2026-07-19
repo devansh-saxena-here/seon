@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[assets/logo.png](https://github.com/user-attachments/assets/95da14e2-c0dd-4583-8e82-4a2e475a3167)" alt="SEON Logo" width="180">
+<img src="https://github.com/user-attachments/assets/95da14e2-c0dd-4583-8e82-4a2e475a3167" alt="SEON Logo" width="180">
 
 # 🌿 SEON
 
