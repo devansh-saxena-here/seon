@@ -27,22 +27,21 @@
 
 <br><br>
 
-<a href="YOUR_LINK">
-  <img src="https://img.shields.io/badge/Live%20Demo-Link-16a34a?style=for-the-badge">
+<a href="YOUR_LIVE_DEMO_LINK">
+  <img src="https://img.shields.io/badge/Live_Demo-Visit-16a34a?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<a href="YOUR_LINK">
-  <img src="https://img.shields.io/badge/Documentation-Link-2563EB?style=for-the-badge">
+<a href="YOUR_DOCS_LINK">
+  <img src="https://img.shields.io/badge/Documentation-Open-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white">
 </a>
 
-<a href="YOUR_LINK">
-  <img src="https://img.shields.io/badge/Demo%20Video-Link-DC2626?style=for-the-badge">
+<a href="YOUR_VIDEO_LINK">
+  <img src="https://img.shields.io/badge/Demo_Video-Watch-DC2626?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
-<a href="YOUR_LINK">
+<a href="YOUR_GITHUB_LINK">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 </div>
 
 ---
