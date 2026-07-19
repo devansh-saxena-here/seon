@@ -10,3 +10,4 @@
 ### *Powering Smarter Energy. Driving a Sustainable Future.*
 
 </div>
+> **Helping Organizations Reduce Energy Waste through AI, IoT, and Intelligent Analytics.**
