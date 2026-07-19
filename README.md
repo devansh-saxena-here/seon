@@ -28,7 +28,7 @@
 <br><br>
 
 <p align="center">
-  <a href="https://seon-lyart.vercel.app/" target="_blank">
+  <a href="https://seon-ai-devansh.lovable.app/" target="_blank">
     <img src="https://img.shields.io/badge/LIVE__DEMO-Launch__SEON-0A66C2?style=for-the-badge&amp;logo=rocket&amp;logoColor=white" alt="Live Demo Button" />
   </a>
 </p>
